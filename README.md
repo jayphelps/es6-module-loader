@@ -1,4 +1,4 @@
-# ES6 Module Loader Polyfill
+# ES6 Module Loader Polyfill (jayphelps fork w/ ES7 async support via traceur update)
 
 Dynamically loads ES6 modules in NodeJS and current browsers.
 
@@ -15,7 +15,7 @@ See the [demo folder](https://github.com/ModuleLoader/es6-module-loader/blob/mas
 
 For an example of a universal module loader based on this polyfill for loading AMD, CommonJS and globals, see [SystemJS](https://github.com/systemjs/systemjs).
 
-_The current version is tested against **[Traceur 0.0.32](https://github.com/google/traceur-compiler/tree/0.0.32)**._
+_The current version is tested against **[Traceur 0.0.33](https://github.com/google/traceur-compiler/tree/0.0.33)**._
 
 _Note the ES6 module specification is still in draft, and subject to change._
 
