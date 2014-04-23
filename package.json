@@ -41,6 +41,6 @@
     "test": "node test/test"
   },
   "dependencies": {
-    "traceur": "0.0.32"
+    "traceur": "0.0.33"
   }
 }
